@@ -1,4 +1,4 @@
-# Jenuroix Engine
+# Jenuroix Egnine
 
 > A lightweight, batteries-included 3D game engine written in C++17.  
 > Built on OpenGL · GLFW · Dear ImGui · Jolt Physics · miniaudio.
