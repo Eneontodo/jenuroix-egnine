@@ -24,7 +24,6 @@ int main() {
 | **Scene** | Entity-Component system, hierarchy, spawn/destroy, show/hide |
 | **Camera** | Free-cam, top-down, FPS controller, FOV, aspect ratio |
 | **Physics** | Jolt Physics integration — static, dynamic, kinematic bodies, raycasting, collision callbacks |
-| **Audio** | miniaudio — looping music, one-shot SFX, 3D positional sound, volume & pitch |
 | **UI** | Dear ImGui wrappers — menus, HUD, inspector, overlays |
 | **Editor** | In-game scene editor — hierarchy, inspector, gizmos, undo/redo, save/load |
 | **Scripting** | Per-object `onUpdate` lambdas, `EventBus` for typed events |
@@ -43,7 +42,6 @@ int main() {
 | OpenGL driver | 3.3 core |
 
 Optional: [Jolt Physics](https://github.com/jrouwe/JoltPhysics) for the physics examples.  
-Optional: [miniaudio](https://miniaud.io/) (single header) for the audio examples.
 
 ### Build
 
