@@ -1,0 +1,46 @@
+# Build
+build/
+out/
+.vs/
+*.user
+*.suo
+*.sdf
+*.aps
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+install_manifest.txt
+Makefile
+
+# Vendor
+!vendor/glfw/
+!vendor/glm/
+!vendor/stb/
+!vendor/imgui/
+!vendor/tinyobj/
+!vendor/tinygltf/
+!vendor/glad/
+
+# Бинарники
+*.exe
+*.dll
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.obj
+*.o
+*.a
+
+# IDE
+.vscode/settings.json
+.idea/
+*.iml
+*.ncb
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini

@@ -19,3 +19,40 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+────────────────────────────────────────────────────────────────────────────
+Third-Party Libraries (bundled or optionally linked)
+────────────────────────────────────────────────────────────────────────────
+
+This project may link against or include the following third-party libraries.
+Each is distributed under its own license; consult the respective project for
+the full license text.
+
+  Library          License     Project URL
+  ───────────────  ──────────  ─────────────────────────────────────────────
+  GLFW             zlib/libpng https://www.glfw.org/
+  glad             MIT/Public  https://github.com/Dav1dde/glad
+  glm              MIT         https://github.com/g-truc/glm
+  Dear ImGui       MIT         https://github.com/ocornut/imgui
+  stb_image        MIT/PD      https://github.com/nothings/stb
+  tinyobjloader    MIT         https://github.com/tinyobjloader/tinyobjloader
+  tinygltf         MIT         https://github.com/syoyo/tinygltf
+  miniaudio        MIT/PD      https://miniaud.io/
+  Jolt Physics     MIT         https://github.com/jrouwe/JoltPhysics
+  nlohmann/json    MIT         https://github.com/nlohmann/json
+
+All third-party libraries retain their original licenses.
+No modification of those libraries' licensing terms is implied by inclusion
+in this project.
+
+────────────────────────────────────────────────────────────────────────────
+Assets (examples/assets/)
+────────────────────────────────────────────────────────────────────────────
+
+Any sample assets provided with the examples (textures, audio files, models)
+are either:
+  • Original work released under CC0 1.0 Universal (Public Domain), or
+  • Placeholder / procedural content with no external copyright.
+
+If you substitute your own assets, you are solely responsible for ensuring
+you hold the appropriate rights to distribute them.
